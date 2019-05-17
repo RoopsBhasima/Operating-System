@@ -1,0 +1,26 @@
+#Open Source(Linux)
+#Closed Source(Microsoft,Apple)
+
+test.cpp
+test.exe
+
+->Android Os
+->Windows
+->IOS
+
+Pioneers of OS
+->Richard Stallman
+->Linus Torvald
+
+Kernel
+
+Android OS
+->Belongs to OS.
+->We can change Os in android phones.
+
+MS-Office
+WordFile
+
+->Surface Net(Web)
+->Deep Web(Net)
+->TOR(Onion Network)
